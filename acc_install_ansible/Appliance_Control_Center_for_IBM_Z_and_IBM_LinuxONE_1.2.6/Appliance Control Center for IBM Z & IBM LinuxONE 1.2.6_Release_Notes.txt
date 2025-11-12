@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------------------
+Release Notes for Appliance Control Center for IBM Z and IBM LinuxOne v1.2.6
+---------------------------------------------------------------------------------------------------------------
+
+Detailed documentation for the Appliance Control Center for IBM Z and IBM LinuxOne v1.2.6 is located here: https://www.ibm.com/docs/en/module_1721331501652/pdf/GC28-7073-00.pdf
+
+List of Restrictions for this release are documented here: https://www.ibm.com/docs/en/module_1721331501652/pdf/SC28-7067-00.pdf
